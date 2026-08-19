@@ -8,3 +8,6 @@ Git/GitHub練習用Repositoryです！
 - commit
 - push
 - pull
+
+## DAY2
+feature branch と Pull Request を練習しています。
