@@ -11,3 +11,4 @@ Git/GitHub練習用Repositoryです！
 
 ## DAY2
 feature branch と Pull Request を練習しています。
+PR作成後の追加commitも確認します。
