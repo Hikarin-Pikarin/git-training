@@ -19,3 +19,12 @@ PR作成後の追加commitも確認します。
 - feature branchで作業
 - Pull Requestを作成
 - レビュー後にmainへmerge
+
+## GitHub Issue
+
+Issueを利用した作業フローを練習しました。
+
+- Issueを作成
+- Issueからbranchを作成
+- branchで修正
+- Pull RequestとIssueを紐づける
